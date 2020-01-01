@@ -1,5 +1,8 @@
-# instagram_page_tags
-Allows users to retrieve Instagram posts which others have mentioned your page in
+# Instagram Page Tags
+
+This laravel project allows a user to connet their Instagram business account and pull public instagram posts which other instagram users have tagged the connected business Instagram Account. This is done using the Instagram Graph API v3.2.
+
+This project demonstrates how to request data access permissions via Oauth2, get access tokens and how these tokens are used to call other graph API endpoints.
 
 # Setting up the environment
 
