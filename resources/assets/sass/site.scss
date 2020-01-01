@@ -1,0 +1,22 @@
+.insta-wall {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-size: cover !important;
+
+  h1 {
+    color: #009348;
+  }
+
+  .container {
+    .insta-tiles {
+      .insta-tile {
+        margin-bottom: 30px;
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+}
+

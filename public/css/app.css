@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);.insta-wall {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-size: cover !important;
+}
+
+.insta-wall h1 {
+  color: #009348;
+}
+
+.insta-wall .container .insta-tiles .insta-tile {
+  margin-bottom: 30px;
+}
+
+.insta-wall .container .insta-tiles .insta-tile img {
+  width: 100%;
+  height: auto;
+}
+
